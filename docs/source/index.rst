@@ -28,6 +28,5 @@ Contents
 
 .. toctree::
 
-   usage
    api
    modules
