@@ -14,6 +14,15 @@ how to :ref:`installation` the project.
    This project is under active development.
    Lumache has its documentation hosted on Read the Docs.
 
+Welcome to Jeu de la vie's documentation!
+=========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   modules
+
 Contents
 --------
 
